@@ -11,6 +11,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "솔루션 항목", "솔루�
 		README.md = README.md
 	EndProjectSection
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PrimeFactors", "PrimeFactors\PrimeFactors.vcxproj", "{E6F2BA40-5C21-48D6-8797-57F4C1A97053}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -27,6 +29,14 @@ Global
 		{025473D0-C441-43A3-8716-80FD7AEAF681}.Release|x64.Build.0 = Release|x64
 		{025473D0-C441-43A3-8716-80FD7AEAF681}.Release|x86.ActiveCfg = Release|Win32
 		{025473D0-C441-43A3-8716-80FD7AEAF681}.Release|x86.Build.0 = Release|Win32
+		{E6F2BA40-5C21-48D6-8797-57F4C1A97053}.Debug|x64.ActiveCfg = Debug|x64
+		{E6F2BA40-5C21-48D6-8797-57F4C1A97053}.Debug|x64.Build.0 = Debug|x64
+		{E6F2BA40-5C21-48D6-8797-57F4C1A97053}.Debug|x86.ActiveCfg = Debug|Win32
+		{E6F2BA40-5C21-48D6-8797-57F4C1A97053}.Debug|x86.Build.0 = Debug|Win32
+		{E6F2BA40-5C21-48D6-8797-57F4C1A97053}.Release|x64.ActiveCfg = Release|x64
+		{E6F2BA40-5C21-48D6-8797-57F4C1A97053}.Release|x64.Build.0 = Release|x64
+		{E6F2BA40-5C21-48D6-8797-57F4C1A97053}.Release|x86.ActiveCfg = Release|Win32
+		{E6F2BA40-5C21-48D6-8797-57F4C1A97053}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
