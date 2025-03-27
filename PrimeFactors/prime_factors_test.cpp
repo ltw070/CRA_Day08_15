@@ -34,6 +34,11 @@ TEST_F(PrimeFixture, Of6) {
 	EXPECT_EQ(expected, prime_factor.of(6));
 }
 
+TEST_F(PrimeFixture, Of9) {
+	expected = { 3,3 };
+	EXPECT_EQ(expected, prime_factor.of(9));
+}
+
 int main() {
 	testing::InitGoogleTest();
 	return RUN_ALL_TESTS();
