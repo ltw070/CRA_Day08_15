@@ -1,5 +1,5 @@
-class PrimeFactor {
+ï»¿class PrimeFactor {
 
 };
 
-// ÄÚµå ¼öÁ¤
+// ì½”ë“œ ìˆ˜ì •
